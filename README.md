@@ -2,21 +2,21 @@
 
 **Swamp Showdown. Fairy-Tale Rules. Ogre-Whelming Strategy.**
 
-A pixel-art fairy-tale card game for your browser and phone. Pick one of five factions, choose your leader's power and win 2 of 3 rounds against the computer, in a tournament, or against a friend on one phone.
+A pixel-art fairy-tale card game that runs in any web browser – on a computer, tablet or phone. Pick one of five factions, choose your leader's power and win 2 of 3 rounds against the computer, in a tournament, or against a friend on one device.
 
 **Play:** https://suwalzky.github.io/onjon/
 
-You can install it on your phone: open the link and choose "Add to Home Screen". It then works like an app, also offline.
+You can also install it like an app (on a phone choose "Add to Home Screen", in a desktop browser use the install icon in the address bar). It then works offline too.
 
 ---
 
 **Bagienny pojedynek. Baśniowe zasady. Ograna strategia.**
 
-Pixelowa, baśniowa gra karciana w przeglądarce i na telefonie. Wybierz jedną z pięciu frakcji i moc dowódcy, a potem wygraj 2 z 3 rund z komputerem, w turnieju albo ze znajomym na jednym telefonie.
+Pixelowa, baśniowa gra karciana, która działa w każdej przeglądarce – na komputerze, tablecie i telefonie. Wybierz jedną z pięciu frakcji i moc dowódcy, a potem wygraj 2 z 3 rund z komputerem, w turnieju albo ze znajomym na jednym urządzeniu.
 
 **Zagraj:** https://suwalzky.github.io/onjon/
 
-Grę można zainstalować na telefonie: otwórz link i wybierz „Do ekranu początkowego”. Działa wtedy jak aplikacja, także bez internetu.
+Grę można też zainstalować jak aplikację (na telefonie wybierz „Do ekranu początkowego”, w przeglądarce na komputerze ikonę instalacji na pasku adresu). Działa wtedy także bez internetu.
 
 ---
 
