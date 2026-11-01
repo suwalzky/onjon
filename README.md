@@ -2,7 +2,7 @@
 
 **Swamp Showdown. Fairy-Tale Rules. Ogre-Whelming Strategy.**
 
-A pixel-art fairy-tale card game that runs in any web browser – on a computer, tablet or phone. Pick one of five factions, choose your leader's power and win 2 of 3 rounds against the computer, in a tournament, in the daily challenge (the same game for everyone, a new one every day), or against a friend – on one device or over the internet, each on their own (online play connects the two devices directly, so your opponent can see your IP address).
+A pixel-art fairy-tale card game that runs in any web browser – on a computer, tablet or phone. Pick one of five factions, choose your leader's power (every deck also gets a random set of neutral cards, so no two games play the same) and win 2 of 3 rounds against the computer, in a tournament, in the daily challenge (the same game for everyone, a new one every day), or against a friend – on one device or over the internet, each on their own (online play connects the two devices directly, so your opponent can see your IP address).
 
 **Play:** https://suwalzky.github.io/onjon/
 
@@ -12,7 +12,7 @@ You can also install it like an app (on a phone choose "Add to Home Screen", in 
 
 **Bagienny pojedynek. Baśniowe zasady. Ograna strategia.**
 
-Pixelowa, baśniowa gra karciana, która działa w każdej przeglądarce – na komputerze, tablecie i telefonie. Wybierz jedną z pięciu frakcji i moc dowódcy, a potem wygraj 2 z 3 rund z komputerem, w turnieju, w wyzwaniu dnia (ta sama partia dla wszystkich, nowa każdego dnia) albo ze znajomym – na jednym urządzeniu lub przez internet, każdy u siebie (gra online łączy urządzenia bezpośrednio, więc przeciwnik widzi Twój adres IP).
+Pixelowa, baśniowa gra karciana, która działa w każdej przeglądarce – na komputerze, tablecie i telefonie. Wybierz jedną z pięciu frakcji i moc dowódcy (każda talia dostaje też losowy zestaw kart neutralnych, więc żadna partia nie jest taka sama), a potem wygraj 2 z 3 rund z komputerem, w turnieju, w wyzwaniu dnia (ta sama partia dla wszystkich, nowa każdego dnia) albo ze znajomym – na jednym urządzeniu lub przez internet, każdy u siebie (gra online łączy urządzenia bezpośrednio, więc przeciwnik widzi Twój adres IP).
 
 **Zagraj:** https://suwalzky.github.io/onjon/
 
