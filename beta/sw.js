@@ -1,6 +1,6 @@
 /*! © 2026 suwalzky. Wszelkie prawa zastrzeżone. All rights reserved. */
-const V='onjon-beta-7ea9e6cb';const MINE=k=>k.startsWith('onjon-beta-');
-const CORE=["./","./assets/builder-Db6IYwCt.js","./assets/builder-K443DVab.css","./assets/bundler-BOv17hp2.js","./assets/decks-B3vIGvlt.js","./assets/index-7WJewRzk.js","./assets/index-jE7P9F6a.css","./manifest.webmanifest","./icon-192.png","./icon-512.png","./favicon-32.png"];
+const V='onjon-beta-28fc4e36';const MINE=k=>k.startsWith('onjon-beta-');
+const CORE=["./","./assets/builder-CTXAsbcf.js","./assets/builder-K443DVab.css","./assets/bundler-BOv17hp2.js","./assets/decks-oAQzjpOz.js","./assets/index-B0E7a1tq.js","./assets/index-Bu7OfRqq.css","./manifest.webmanifest","./icon-192.png","./icon-512.png","./favicon-32.png"];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>MINE(k)&&k!==V).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',e=>{const r=e.request;if(r.method!=='GET')return;const u=new URL(r.url);
