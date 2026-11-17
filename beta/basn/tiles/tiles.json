@@ -1,0 +1,376 @@
+{
+  "duel": {
+    "bg": "ui/tiles/duel/bg.webp",
+    "items": [
+      {
+        "id": "leader-left",
+        "character": true,
+        "x": 0.27,
+        "y": 0.39,
+        "width": 0.32,
+        "motion": "bob"
+      },
+      {
+        "id": "leader-right",
+        "character": true,
+        "x": 0.73,
+        "y": 0.39,
+        "width": 0.32,
+        "motion": "bob"
+      },
+      {
+        "id": "spark",
+        "file": "ui/tiles/duel/spark.png",
+        "x": 0.5,
+        "y": 0.32,
+        "width": 0.13,
+        "motion": "pulse"
+      }
+    ]
+  },
+  "tour": {
+    "bg": "ui/tiles/tour/bg.webp",
+    "items": [
+      {
+        "id": "trophy",
+        "file": "ui/tiles/tour/trophy.png",
+        "x": 0.5,
+        "y": 0.35,
+        "width": 0.4,
+        "motion": "shine"
+      },
+      {
+        "id": "fly-1",
+        "file": "ui/tiles/tour/fly.png",
+        "x": 0.23,
+        "y": 0.24,
+        "width": 0.035,
+        "motion": "drift"
+      },
+      {
+        "id": "fly-2",
+        "file": "ui/tiles/tour/fly.png",
+        "x": 0.77,
+        "y": 0.19,
+        "width": 0.035,
+        "motion": "drift"
+      },
+      {
+        "id": "fly-3",
+        "file": "ui/tiles/tour/fly.png",
+        "x": 0.7,
+        "y": 0.48,
+        "width": 0.03,
+        "motion": "drift"
+      }
+    ]
+  },
+  "friends": {
+    "bg": "ui/tiles/friends/bg.webp",
+    "items": [
+      {
+        "id": "leader-left",
+        "character": true,
+        "x": 0.25,
+        "y": 0.4,
+        "width": 0.3,
+        "motion": "bob"
+      },
+      {
+        "id": "leader-right",
+        "character": true,
+        "x": 0.75,
+        "y": 0.4,
+        "width": 0.3,
+        "motion": "bob"
+      },
+      {
+        "id": "card-back",
+        "file": "ui/tiles/friends/card-back.png",
+        "x": 0.43,
+        "y": 0.34,
+        "width": 0.16,
+        "motion": "drift"
+      },
+      {
+        "id": "card-front",
+        "file": "ui/tiles/friends/card-front.png",
+        "x": 0.57,
+        "y": 0.38,
+        "width": 0.16,
+        "motion": "drift"
+      }
+    ]
+  },
+  "daily": {
+    "bg": "ui/tiles/daily/bg.webp",
+    "items": [
+      {
+        "id": "leader-left",
+        "character": true,
+        "x": 0.23,
+        "y": 0.4,
+        "width": 0.29,
+        "motion": "bob"
+      },
+      {
+        "id": "leader-right",
+        "character": true,
+        "x": 0.77,
+        "y": 0.4,
+        "width": 0.29,
+        "motion": "bob"
+      },
+      {
+        "id": "medal",
+        "file": "ui/tiles/daily/medal.png",
+        "x": 0.5,
+        "y": 0.31,
+        "width": 0.25,
+        "motion": "swing"
+      }
+    ]
+  },
+  "camp": {
+    "bg": "ui/tiles/camp/bg.webp",
+    "items": [
+      {
+        "id": "hill-1",
+        "file": "ui/tiles/camp/hill-1.png",
+        "x": 0.38,
+        "y": 0.46,
+        "width": 0.86
+      },
+      {
+        "id": "hill-2",
+        "file": "ui/tiles/camp/hill-2.png",
+        "x": 0.73,
+        "y": 0.39,
+        "width": 0.6
+      },
+      {
+        "id": "stop-1",
+        "file": "ui/tiles/camp/stop.png",
+        "x": 0.16,
+        "y": 0.535,
+        "width": 0.045,
+        "motion": "pulse",
+        "litFile": "ui/tiles/camp/stop-lit.png"
+      },
+      {
+        "id": "stop-2",
+        "file": "ui/tiles/camp/stop.png",
+        "x": 0.34,
+        "y": 0.51,
+        "width": 0.045,
+        "motion": "pulse",
+        "litFile": "ui/tiles/camp/stop-lit.png"
+      },
+      {
+        "id": "stop-3",
+        "file": "ui/tiles/camp/stop.png",
+        "x": 0.51,
+        "y": 0.44,
+        "width": 0.045,
+        "motion": "pulse",
+        "litFile": "ui/tiles/camp/stop-lit.png"
+      },
+      {
+        "id": "stop-4",
+        "file": "ui/tiles/camp/stop.png",
+        "x": 0.65,
+        "y": 0.35,
+        "width": 0.045,
+        "motion": "pulse",
+        "litFile": "ui/tiles/camp/stop-lit.png"
+      },
+      {
+        "id": "stop-5",
+        "file": "ui/tiles/camp/stop.png",
+        "x": 0.8,
+        "y": 0.25,
+        "width": 0.045,
+        "motion": "pulse",
+        "litFile": "ui/tiles/camp/stop-lit.png"
+      },
+      {
+        "id": "flag",
+        "file": "ui/tiles/camp/flag.png",
+        "x": 0.82,
+        "y": 0.16,
+        "width": 0.13,
+        "motion": "wave"
+      },
+      {
+        "id": "walker",
+        "character": true,
+        "x": 0.26,
+        "y": 0.45,
+        "width": 0.17,
+        "motion": "hop"
+      }
+    ]
+  },
+  "online": {
+    "bg": "ui/tiles/online/bg.webp",
+    "items": [
+      {
+        "id": "globe-map",
+        "file": "ui/tiles/online/globe-map.png",
+        "x": 0.5,
+        "y": 0.34,
+        "width": 0.44,
+        "motion": "spin"
+      },
+      {
+        "id": "globe",
+        "file": "ui/tiles/online/globe.png",
+        "x": 0.5,
+        "y": 0.34,
+        "width": 0.48
+      },
+      {
+        "id": "ping",
+        "file": "ui/tiles/online/ping.png",
+        "x": 0.5,
+        "y": 0.34,
+        "width": 0.56,
+        "motion": "ping"
+      }
+    ]
+  },
+  "cont": {
+    "bg": "ui/tiles/cont/bg.webp",
+    "items": [
+      {
+        "id": "leader",
+        "character": true,
+        "x": 0.43,
+        "y": 0.38,
+        "width": 0.35,
+        "motion": "bob"
+      },
+      {
+        "id": "hourglass",
+        "file": "ui/tiles/cont/hourglass.png",
+        "x": 0.72,
+        "y": 0.44,
+        "width": 0.19,
+        "motion": "pulse"
+      }
+    ]
+  },
+  "expedition": {
+    "bg": "ui/tiles/expedition/bg.webp",
+    "items": [
+      {
+        "id": "mountain",
+        "file": "ui/tiles/expedition/mountain.png",
+        "x": 0.55,
+        "y": 0.34,
+        "width": 0.74
+      },
+      {
+        "id": "snow",
+        "file": "ui/tiles/expedition/snow.png",
+        "x": 0.61,
+        "y": 0.21,
+        "width": 0.29
+      },
+      {
+        "id": "checkpoint-1",
+        "file": "ui/tiles/expedition/checkpoint.png",
+        "x": 0.33,
+        "y": 0.48,
+        "width": 0.045,
+        "motion": "pulse"
+      },
+      {
+        "id": "checkpoint-2",
+        "file": "ui/tiles/expedition/checkpoint.png",
+        "x": 0.6,
+        "y": 0.38,
+        "width": 0.045,
+        "motion": "pulse"
+      },
+      {
+        "id": "checkpoint-3",
+        "file": "ui/tiles/expedition/checkpoint.png",
+        "x": 0.6,
+        "y": 0.24,
+        "width": 0.045,
+        "motion": "pulse"
+      },
+      {
+        "id": "summit",
+        "file": "ui/tiles/expedition/summit.png",
+        "x": 0.7,
+        "y": 0.06,
+        "width": 0.065,
+        "motion": "wave"
+      },
+      {
+        "id": "donkey",
+        "character": true,
+        "x": 0.22,
+        "y": 0.5,
+        "width": 0.16,
+        "motion": "hop"
+      },
+      {
+        "id": "ogre",
+        "character": true,
+        "x": 0.38,
+        "y": 0.45,
+        "width": 0.18,
+        "motion": "hop"
+      }
+    ]
+  },
+  "fair": {
+    "bg": "ui/tiles/fair/bg.webp",
+    "items": [
+      {
+        "id": "awning",
+        "file": "ui/tiles/fair/awning.png",
+        "x": 0.5,
+        "y": 0.17,
+        "width": 0.82
+      },
+      {
+        "id": "counter",
+        "file": "ui/tiles/fair/counter.png",
+        "x": 0.5,
+        "y": 0.55,
+        "width": 0.84
+      },
+      {
+        "id": "pack-1",
+        "file": "ui/tiles/fair/pack.png",
+        "x": 0.28,
+        "y": 0.39,
+        "width": 0.17,
+        "motion": "lift",
+        "litFile": "ui/tiles/fair/pack-lit.png"
+      },
+      {
+        "id": "pack-2",
+        "file": "ui/tiles/fair/pack.png",
+        "x": 0.5,
+        "y": 0.36,
+        "width": 0.19,
+        "motion": "lift",
+        "litFile": "ui/tiles/fair/pack-lit.png"
+      },
+      {
+        "id": "pack-3",
+        "file": "ui/tiles/fair/pack.png",
+        "x": 0.72,
+        "y": 0.39,
+        "width": 0.17,
+        "motion": "lift",
+        "litFile": "ui/tiles/fair/pack-lit.png"
+      }
+    ]
+  }
+}
