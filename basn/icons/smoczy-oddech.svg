@@ -1,0 +1,28 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24"
+  data-icon="smoczy-oddech"
+  data-icon-style="ink"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.7"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  style="
+    color: rgb(43, 33, 24);
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.7;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  "
+  role="img"
+  aria-label="Smoczy Oddech"
+>
+  <g stroke="#35271c">
+    <path d="M2 19c6-2 3-8 10-11l-1 5c4-2 5-6 4-11 6 3 9 9 6 15-2 4-9 7-15 3l-4 1Z" fill="#e8892c" />
+    <path d="M6 19c6-1 5-5 9-7l-1 5 5-3c0 6-7 8-13 5Z" fill="#f6d27a" stroke-width="1.3" />
+  </g>
+</svg>

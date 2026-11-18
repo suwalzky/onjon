@@ -1,0 +1,30 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24"
+  data-icon="krysztalowa-trumna"
+  data-icon-style="ink"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.7"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  style="
+    color: rgb(43, 33, 24);
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.7;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  "
+  role="img"
+  aria-label="Kryształowa Trumna"
+>
+  <g stroke="#35271c" stroke-width="1.7">
+    <path d="M8 2h8l4 6-3 14H7L4 8Z" fill="#cfe6f2" />
+    <path d="M8 2 5 8l3 12h8l3-12-3-6M5 8h14M8 20l-1 2m9-2 1 2" stroke-width="1.2" />
+    <path d="M8 2h8v2H8Zm-2 16 3-.5.5 3-3 .5Zm9.5-.5 3 .5-.5 3-3-.5Z" fill="#e0a93c" stroke-width="1.2" />
+    <path d="m10 12 4-4m-3 8 4-4" stroke="#fbf2d9" stroke-width="1.4" />
+  </g>
+</svg>
