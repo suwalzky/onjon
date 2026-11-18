@@ -1,5 +1,5 @@
 /*! © 2026 suwalzky. Wszelkie prawa zastrzeżone. All rights reserved. */
-const V='onjon-beta-b9fc1461';const MINE=k=>k.startsWith('onjon-beta-');
+const V='onjon-beta-e89a231b';const MINE=k=>k.startsWith('onjon-beta-');
 const CORE=["./","./assets/builder-K443DVab.css","./assets/builder-eyH-nwM9.js","./assets/bundler-BOv17hp2.js","./assets/decks-B4Pl0SyD.js","./assets/index-BhbwWd3Y.css","./assets/index-CaeWX0az.js","./assets/ui-C8BW4cDI.css","./assets/ui-DPWYAvQg.js","./manifest.webmanifest","./icon-192.png","./icon-512.png","./favicon-32.png"];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>MINE(k)&&k!==V).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
