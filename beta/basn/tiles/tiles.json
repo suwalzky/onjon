@@ -135,20 +135,6 @@
     "bg": "ui/tiles/camp/bg.webp",
     "items": [
       {
-        "id": "hill-1",
-        "file": "ui/tiles/camp/hill-1.png",
-        "x": 0.38,
-        "y": 0.46,
-        "width": 0.86
-      },
-      {
-        "id": "hill-2",
-        "file": "ui/tiles/camp/hill-2.png",
-        "x": 0.73,
-        "y": 0.39,
-        "width": 0.6
-      },
-      {
         "id": "stop-1",
         "file": "ui/tiles/camp/stop.png",
         "x": 0.16,
