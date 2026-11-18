@@ -1,0 +1,31 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24"
+  data-icon="wybila-polnoc"
+  data-icon-style="ink"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.7"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  style="
+    color: rgb(43, 33, 24);
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.7;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  "
+  role="img"
+  aria-label="Wybiła Północ"
+>
+  <g stroke="#35271c">
+    <circle cx="11" cy="13" r="9" fill="#e0a93c" />
+    <circle cx="11" cy="13" r="6.5" fill="#fbf2d9" stroke-width="1.3" />
+    <path d="M11 13V8m0 5 .8-4M5 13h1m10 0h1m-6 5v1" stroke-width="1.3" />
+    <circle cx="11" cy="13" r="1" fill="#35271c" stroke="none" />
+    <path d="M21 2c-3 0-5 3-4 5 1 3 4 4 6 2-4 0-5-5-2-7Z" fill="#f6d27a" stroke-width="1.3" />
+  </g>
+</svg>

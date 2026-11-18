@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" data-icon="Słoneczko" data-icon-style="ink" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="color:rgb(43, 33, 24);fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round" role="img" aria-label="Wyzwanie dnia"><g stroke="#35271c" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="m12 1 2 4 4-2 1 5 4 2-3 3 2 5-5 1-3 4-3-4-5 1 1-5-4-3 4-3V4l5 1Z" fill="#efb83f"/><path d="M12 7a5 5 0 1 0 0 10 5 5 0 1 0 0-10Z" fill="#f7d779"/></g></svg>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24"
+  data-icon="Słoneczko"
+  data-icon-style="ink"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.7"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  style="
+    color: rgb(43, 33, 24);
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.7;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  "
+  role="img"
+  aria-label="Wyzwanie dnia"
+>
+  <g stroke="#35271c" stroke-width="1.7">
+    <path
+      d="M12.000 1.500 L14.679 5.533 L19.425 4.575 L18.467 9.321 L22.500 12.000 L18.467 14.679 L19.425 19.425 L14.679 18.467 L12.000 22.500 L9.321 18.467 L4.575 19.425 L5.533 14.679 L1.500 12.000 L5.533 9.321 L4.575 4.575 L9.321 5.533Z"
+      fill="#e0a93c"
+    />
+    <circle cx="12" cy="12" r="4.8" fill="#f6d27a" stroke-width="1.4" />
+  </g>
+</svg>

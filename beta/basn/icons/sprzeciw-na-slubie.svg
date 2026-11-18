@@ -1,0 +1,34 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24"
+  data-icon="sprzeciw-na-slubie"
+  data-icon-style="ink"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.7"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  style="
+    color: rgb(43, 33, 24);
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.7;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  "
+  role="img"
+  aria-label="Sprzeciw na Ślubie"
+>
+  <g stroke="#35271c">
+    <circle cx="16" cy="8" r="6" fill="#e0a93c" />
+    <circle cx="16" cy="8" r="3.2" fill="#fbf2d9" stroke-width="1.3" />
+    <path
+      d="M6 19 3 14c-1-2 1-3 2-2l2 2V6c0-2 3-2 3 0V4c0-2 3-2 3 0v2c0-2 3-2 3 0v2c0-2 3-2 3 0v6c0 2-2 4-3 5Z"
+      fill="#fbf2d9"
+    />
+    <path d="M10 6v5m3-5v5m3-3v4" stroke-width="1.1" />
+    <path d="M6 19h10v3H6Z" fill="#ad4238" />
+  </g>
+</svg>
